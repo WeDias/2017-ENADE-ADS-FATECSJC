@@ -5,5 +5,7 @@ Alunos da FATEC-SJC, do curso de Análise e Desenvolvimento de Sistemas, acharam
 
 ---
 ###### 📊 Para visualizar a análise completa [*Clique aqui*](https://github.com/WeDias/2017-ENADE-ADS-FATECSJC/blob/master/Enade/Analise.ipynb)
+###### 📊 Caso o link acima não carregue [*Clique aqui*](https://github.com/WeDias/2017-ENADE-ADS-FATECSJC/blob/master/Enade/Analise.pdf)
 ###### 📃 Fonte: [*INEP, ENADE 2017*](http://portal.inep.gov.br/microdados)
 ###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
+
